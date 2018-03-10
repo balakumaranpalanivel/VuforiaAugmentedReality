@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 424
     height: 917
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
   controlID: 10
 --- !u!114 &3
@@ -92,7 +92,7 @@ MonoBehaviour:
     y: 0
     width: 1680
     height: 967
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -156,8 +156,8 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 917
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 713, y: 471}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
   controlID: 115
 --- !u!114 &8
@@ -178,8 +178,8 @@ MonoBehaviour:
     y: 0
     width: 424
     height: 432
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -325,14 +325,14 @@ MonoBehaviour:
     height: 896
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1857.7234340236141
+  lastFramingTime: 1316.7087117065935
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.6205606, y: 3.0853806, z: 8.228561}
+    m_Target: {x: 3.1714766, y: 8.903658, z: 5.695011}
     speed: 2
-    m_Value: {x: 1.6205606, y: 3.0853806, z: 8.228561}
+    m_Value: {x: 3.1714766, y: 8.903658, z: 5.695011}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -356,13 +356,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.16704543, y: 0.7839456, z: -0.23890968, w: -0.5481479}
+    m_Target: {x: 0.0018202382, y: -0.9888851, z: 0.14825155, w: 0.012155745}
     speed: 2
-    m_Value: {x: -0.16704385, y: 0.7839382, z: -0.23890743, w: -0.54814273}
+    m_Value: {x: 0.0018202169, y: -0.98887354, z: 0.14824982, w: 0.012155604}
   m_Size:
-    m_Target: 92.23991
+    m_Target: 61.068428
     speed: 2
-    m_Value: 92.23991
+    m_Value: 61.068428
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -403,9 +403,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b0ddffff
-    m_LastClickedID: -8784
-    m_ExpandedIDs: e6f8ffff000000000a2e0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 022bffff082bffff1a2bffff1c2bffff382bffff3a2bffff3c2bffff3e2bffff4c2bffff4e2bffff522bffff582bffffcc4dffff1c4effff625bffff9efbffff00000000ee2a0000fc2a00000e2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -421,7 +421,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
   - Scene1
@@ -544,19 +544,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/MyAssets/ARLightToolPack/Shaders
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/MyAssets/ARLightToolPack/Shaders
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\AugumentedReality\VuforiaGettingStarted
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d42c0000
-    m_LastClickedID: 11476
-    m_ExpandedIDs: 00000000d42c0000fa2c0000ba2d0000c82d000000ca9a3bffffff7f
+    m_SelectedIDs: 782c0000
+    m_LastClickedID: 11384
+    m_ExpandedIDs: 00000000442900006a2900001a2a00007a2a0000822c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -584,7 +584,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d42c0000fa2c0000ba2d0000c82d0000
+    m_ExpandedIDs: 00000000442900006a2900006c2a00007a2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
